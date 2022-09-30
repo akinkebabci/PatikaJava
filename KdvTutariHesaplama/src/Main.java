@@ -7,7 +7,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Lütfen Tutari Giriniz : ");
         tutar = scanner.nextDouble();
-        //double durum = tutar>0 && tutar<=1000 ?  (kdvOrani = kdvOrani) : (kdvOrani -= 0.10);
+        double durum = tutar>0 && tutar<=1000 ?  (kdvOrani = kdvOrani) : (kdvOrani -= 0.10);
         double kdvTutar = tutar * kdvOrani;
         double kdvliTutar = tutar + kdvTutar;
         double kdvHaricTutar = kdvliTutar / (1 + kdvOrani);
