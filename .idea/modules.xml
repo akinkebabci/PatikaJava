@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java101/DaireninAlaniHesaplama/DaireninAlaniHesaplama.iml" filepath="$PROJECT_DIR$/Java101/DaireninAlaniHesaplama/DaireninAlaniHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/DikUcgenHipotenus/DikUcgenHipotenus.iml" filepath="$PROJECT_DIR$/Java101/DikUcgenHipotenus/DikUcgenHipotenus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java101/HesapMakinesi/HesapMakinesi.iml" filepath="$PROJECT_DIR$/Java101/HesapMakinesi/HesapMakinesi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/Java101.iml" filepath="$PROJECT_DIR$/Java101/Java101.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/JavaDataTypes/JavaDataTypes.iml" filepath="$PROJECT_DIR$/Java101/JavaDataTypes/JavaDataTypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/KdvTutariHesaplama/KdvTutariHesaplama.iml" filepath="$PROJECT_DIR$/Java101/KdvTutariHesaplama/KdvTutariHesaplama.iml" />
@@ -13,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/Java101/TaksimetreHesaplama/TaksimetreHesaplama.iml" filepath="$PROJECT_DIR$/Java101/TaksimetreHesaplama/TaksimetreHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/UcgenAlanHesaplama/UcgenAlanHesaplama.iml" filepath="$PROJECT_DIR$/Java101/UcgenAlanHesaplama/UcgenAlanHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/VucutKitleIndeksi/VucutKitleIndeksi.iml" filepath="$PROJECT_DIR$/Java101/VucutKitleIndeksi/VucutKitleIndeksi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java101/info/info.iml" filepath="$PROJECT_DIR$/Java101/info/info.iml" />
     </modules>
   </component>
 </project>
