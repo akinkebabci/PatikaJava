@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/PatikaJava.iml" filepath="$PROJECT_DIR$/PatikaJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/TaksimetreHesaplama/TaksimetreHesaplama.iml" filepath="$PROJECT_DIR$/Java101/TaksimetreHesaplama/TaksimetreHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/UcgenAlanHesaplama/UcgenAlanHesaplama.iml" filepath="$PROJECT_DIR$/Java101/UcgenAlanHesaplama/UcgenAlanHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java101/VucutKitleEndeksi/VucutKitleEndeksi.iml" filepath="$PROJECT_DIR$/Java101/VucutKitleEndeksi/VucutKitleEndeksi.iml" />
     </modules>
   </component>
 </project>
