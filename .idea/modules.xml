@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DikUcgenHipotenus/DikUcgenHipotenus.iml" filepath="$PROJECT_DIR$/DikUcgenHipotenus/DikUcgenHipotenus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java101/DikUcgenHipotenus/DikUcgenHipotenus.iml" filepath="$PROJECT_DIR$/Java101/DikUcgenHipotenus/DikUcgenHipotenus.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/Java101.iml" filepath="$PROJECT_DIR$/Java101/Java101.iml" />
-      <module fileurl="file://$PROJECT_DIR$/KdvTutariHesaplama/KdvTutariHesaplama.iml" filepath="$PROJECT_DIR$/KdvTutariHesaplama/KdvTutariHesaplama.iml" />
-      <module fileurl="file://$PROJECT_DIR$/NotOrtalamasi/NotOrtalamasi.iml" filepath="$PROJECT_DIR$/NotOrtalamasi/NotOrtalamasi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java101/KdvTutariHesaplama/KdvTutariHesaplama.iml" filepath="$PROJECT_DIR$/Java101/KdvTutariHesaplama/KdvTutariHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java101/NotOrtalamasi/NotOrtalamasi.iml" filepath="$PROJECT_DIR$/Java101/NotOrtalamasi/NotOrtalamasi.iml" />
       <module fileurl="file://$PROJECT_DIR$/PatikaJava.iml" filepath="$PROJECT_DIR$/PatikaJava.iml" />
-      <module fileurl="file://$PROJECT_DIR$/UcgenAlanHesaplama/UcgenAlanHesaplama.iml" filepath="$PROJECT_DIR$/UcgenAlanHesaplama/UcgenAlanHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java101/UcgenAlanHesaplama/UcgenAlanHesaplama.iml" filepath="$PROJECT_DIR$/Java101/UcgenAlanHesaplama/UcgenAlanHesaplama.iml" />
     </modules>
   </component>
 </project>
