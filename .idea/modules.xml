@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java101/DaireninAlaniHesaplama/DaireninAlaniHesaplama.iml" filepath="$PROJECT_DIR$/Java101/DaireninAlaniHesaplama/DaireninAlaniHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/DikUcgenHipotenus/DikUcgenHipotenus.iml" filepath="$PROJECT_DIR$/Java101/DikUcgenHipotenus/DikUcgenHipotenus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java101/HavaSicakliginaGoreEtkinlik/HavaSicakliginaGoreEtkinlik.iml" filepath="$PROJECT_DIR$/Java101/HavaSicakliginaGoreEtkinlik/HavaSicakliginaGoreEtkinlik.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/HesapMakinesi/HesapMakinesi.iml" filepath="$PROJECT_DIR$/Java101/HesapMakinesi/HesapMakinesi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/Java101.iml" filepath="$PROJECT_DIR$/Java101/Java101.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/JavaDataTypes/JavaDataTypes.iml" filepath="$PROJECT_DIR$/Java101/JavaDataTypes/JavaDataTypes.iml" />
