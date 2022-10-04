@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/Java101/AsalSayi1-100/AsalSayi1-100.iml" filepath="$PROJECT_DIR$/Java101/AsalSayi1-100/AsalSayi1-100.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/AtmProjesi/AtmProjesi.iml" filepath="$PROJECT_DIR$/Java101/AtmProjesi/AtmProjesi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/BurcBulanProgram/BurcBulanProgram.iml" filepath="$PROJECT_DIR$/Java101/BurcBulanProgram/BurcBulanProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java101/_Classes/CarsClassesIntro/CarsClassesIntro.iml" filepath="$PROJECT_DIR$/Java101/_Classes/CarsClassesIntro/CarsClassesIntro.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/CinZodyagi/CinZodyagi.iml" filepath="$PROJECT_DIR$/Java101/CinZodyagi/CinZodyagi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/DaireninAlaniHesaplama/DaireninAlaniHesaplama.iml" filepath="$PROJECT_DIR$/Java101/DaireninAlaniHesaplama/DaireninAlaniHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/DesenMetot/DesenMetot.iml" filepath="$PROJECT_DIR$/Java101/DesenMetot/DesenMetot.iml" />
@@ -24,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/Java101/JavaDataTypes/JavaDataTypes.iml" filepath="$PROJECT_DIR$/Java101/JavaDataTypes/JavaDataTypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/JavaIfElse/JavaIfElse.iml" filepath="$PROJECT_DIR$/Java101/JavaIfElse/JavaIfElse.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/JavaLoops/JavaLoops.iml" filepath="$PROJECT_DIR$/Java101/JavaLoops/JavaLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java101/JavaMethodOverriding/JavaMethodOverriding.iml" filepath="$PROJECT_DIR$/Java101/JavaMethodOverriding/JavaMethodOverriding.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/KdvTutariHesaplama/KdvTutariHesaplama.iml" filepath="$PROJECT_DIR$/Java101/KdvTutariHesaplama/KdvTutariHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/KullaniciGirisiKontrol/KullaniciGirisiKontrol.iml" filepath="$PROJECT_DIR$/Java101/KullaniciGirisiKontrol/KullaniciGirisiKontrol.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/KullanicidanAlinanMaxMin/KullanicidanAlinanMaxMin.iml" filepath="$PROJECT_DIR$/Java101/KullanicidanAlinanMaxMin/KullanicidanAlinanMaxMin.iml" />
@@ -37,6 +39,7 @@
       <module fileurl="file://$PROJECT_DIR$/Java101/SayiKuvvetleri/SayiKuvvetleri.iml" filepath="$PROJECT_DIR$/Java101/SayiKuvvetleri/SayiKuvvetleri.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/SayilariBuyuktenKucugeSiralama/SayilariBuyuktenKucugeSiralama.iml" filepath="$PROJECT_DIR$/Java101/SayilariBuyuktenKucugeSiralama/SayilariBuyuktenKucugeSiralama.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/SinifGecmeDurumu/SinifGecmeDurumu.iml" filepath="$PROJECT_DIR$/Java101/SinifGecmeDurumu/SinifGecmeDurumu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java101/_Classes/StudentInformationSystem/StudentInformationSystem.iml" filepath="$PROJECT_DIR$/Java101/_Classes/StudentInformationSystem/StudentInformationSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/TaksimetreHesaplama/TaksimetreHesaplama.iml" filepath="$PROJECT_DIR$/Java101/TaksimetreHesaplama/TaksimetreHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/TersUcgen/TersUcgen.iml" filepath="$PROJECT_DIR$/Java101/TersUcgen/TersUcgen.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/UcakBiletiFiyatiHesaplama/UcakBiletiFiyatiHesaplama.iml" filepath="$PROJECT_DIR$/Java101/UcakBiletiFiyatiHesaplama/UcakBiletiFiyatiHesaplama.iml" />
@@ -44,6 +47,8 @@
       <module fileurl="file://$PROJECT_DIR$/Java101/UsluSayiHesaplama/UsluSayiHesaplama.iml" filepath="$PROJECT_DIR$/Java101/UsluSayiHesaplama/UsluSayiHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/VucutKitleIndeksi/VucutKitleIndeksi.iml" filepath="$PROJECT_DIR$/Java101/VucutKitleIndeksi/VucutKitleIndeksi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/YildizlarIleUcgen/YildizlarIleUcgen.iml" filepath="$PROJECT_DIR$/Java101/YildizlarIleUcgen/YildizlarIleUcgen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java101/_BaseIntro/_BaseIntro.iml" filepath="$PROJECT_DIR$/Java101/_BaseIntro/_BaseIntro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java101/_Classes/_Classes.iml" filepath="$PROJECT_DIR$/Java101/_Classes/_Classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101/info/info.iml" filepath="$PROJECT_DIR$/Java101/info/info.iml" />
     </modules>
   </component>
